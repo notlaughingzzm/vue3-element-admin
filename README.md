@@ -48,4 +48,4 @@
 
 </p>
 
-\> vue3-element-admin 是一个管理端模板解决方案，它是基于vue3,ts和element-plus，项目都是以composition api风格编写。
+\> vue3-element-admin 是一个管理端模板解决方案，它是基于vue3,ts和element-plus。
